@@ -4,6 +4,9 @@
 Desenvolvi o Agendador de Tarefas  com o objetivo de aprimorar minhas habilidades em desenvolvimento web. 
 Ele é uma maneira de demonstrar meu trabalho e compartilhar meus projetos com outras pessoas.
 
+## Acesso ao Site
+O site pode ser acessado através do link: https://lucasrx6.github.io/AgendaJavascript/
+
 ## Funcionalidades
 - `Adicione sua tarefa`: Campo para preencher com as tarefas a serem adicionadas.
 - `Pesquisar`: Realiza a pesquisa por tarefas já adicionadas.
@@ -44,6 +47,3 @@ Se você deseja contribuir com este projeto, siga as instruções abaixo:
 - Faça commit das suas alterações: git commit -m "feat: My new feature"
 - Envie as suas alterações para a sua branch: git push origin my-feature
 - Abra um Pull Request
-
-## Acesso ao Site
-O site pode ser acessado através do link: https://lucasrx6.github.io/AgendaJavascript/
