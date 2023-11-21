@@ -16,7 +16,7 @@ Ele é uma maneira de demonstrar meu trabalho e compartilhar meus projetos com o
 - HTML5
 - CSS3
 - JavaScript
-_______________________________________________
+
 ## Prints
 
 ### Tela Inicial:
